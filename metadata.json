@@ -1,0 +1,7 @@
+{
+  "name": "QuizMind AI",
+  "description": "An AI-powered SaaS platform for generating, managing, and conducting educational quizzes with real-time analytics and classroom features.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
